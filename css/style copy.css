@@ -52,7 +52,7 @@ body {
 
 .ship {
   position: absolute;
-  top: 7%;
+  top: 6%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
